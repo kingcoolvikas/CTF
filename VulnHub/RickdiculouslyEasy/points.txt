@@ -1,0 +1,11 @@
+FLAG:{TheyFoundMyBackDoorMorty}-10Points
+FLAG{Whoa this is unexpected} - 10 Points
+FLAG{Yeah d- just don't do it.} - 10 Points
+FLAG {There is no Zeus, in your face!} - 10 Points
+FLAG{Flip the pickle Morty!} - 10 Points 
+FLAG{Get off the high road Summer!} - 10 Points
+FLAG: {131333} - 20 Points
+FLAG{And Awwwaaaaayyyy we Go!} - 20 Points
+FLAG: {Ionic Defibrillator} - 30 points
+
+                       Total - 130 Points
