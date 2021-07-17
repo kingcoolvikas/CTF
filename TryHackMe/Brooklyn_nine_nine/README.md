@@ -32,8 +32,8 @@ After Enumerating ftp port we can see that it has anynomous login allowed. We, c
 ftp 10.10.233.242 21
 `
 
-*Name : anynomous*</br>
-*pass : anynomous*
+*Name : anonymous*</br>
+*pass : anonymous*
 
 ![ftp](Images/ftp.png)
 
